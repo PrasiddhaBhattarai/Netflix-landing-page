@@ -2,6 +2,7 @@
 
 ## ABOUT
 This project is about the recreation of Netflix landing page UI design using `HTML`, `CSS`.
+And yes, this is fully responsive
 
 ## Built With
 * HTML
@@ -13,7 +14,7 @@ This project is about the recreation of Netflix landing page UI design using `HT
 
 ## LINK FOR THE WEBSITE
 ```
-
+https://prasiddhabhattarai.github.io/Netflix-landing-page/
 ```
 
 ---
