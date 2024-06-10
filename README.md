@@ -9,6 +9,7 @@ This project is about the recreation of Netflix landing page UI design using `HT
 
 ## PREVIEW OF HOMEPAGE
 
+![image](https://github.com/PrasiddhaBhattarai/Netflix-landing-page/assets/172280718/cf29e2d4-a49d-4ad2-ac12-5fd80dca3d75)
 
 ## LINK FOR THE WEBSITE
 ```
