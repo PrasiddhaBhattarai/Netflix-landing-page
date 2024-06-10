@@ -1,7 +1,7 @@
 <h1 align="center"><img align="center" src="https://github.com/TheNewC0der-24/Netflix-Landing-Page_Clone/blob/master/Img/logo.png">Landing Page Clone</h1>
 
 ## ABOUT
-This project is about the recreation of Netflix landing page UI design using `HTML`, `CSS`.
+This project is about the recreation of Netflix landing page UI design using `HTML`, `CSS`.<br>
 And yes, this is fully responsive
 
 ## Built With
