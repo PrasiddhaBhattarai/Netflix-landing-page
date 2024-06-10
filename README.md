@@ -18,4 +18,4 @@ https://prasiddhabhattarai.github.io/Netflix-landing-page/
 ```
 
 ---
-<h3 align="center">Than You !</h3>
+<h3 align="center">Thank You !</h3>
